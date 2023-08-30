@@ -1,0 +1,9 @@
+python-telegram-bot
+openai
+pdfreader
+pypdf2
+pys2
+cohere
+requests
+unpywall
+python-dotenv`
